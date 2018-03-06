@@ -1,0 +1,1 @@
+from blogtest.app import create_app
